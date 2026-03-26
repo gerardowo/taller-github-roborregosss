@@ -1,0 +1,1 @@
+# MCP es una herramienta que permite conectar LLMs y GitHub para usarlas en conjunto.
