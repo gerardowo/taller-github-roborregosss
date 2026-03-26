@@ -1,0 +1,1 @@
+# Se me quedó grabado el término "pull request" y "sync changes"
